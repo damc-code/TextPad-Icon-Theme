@@ -1,0 +1,47 @@
+{
+	"name": "textpad-icon-theme",
+	"displayName": "TextPad Icon Theme",
+	"description": "A simple icon theme",
+	"version": "2",
+	"publisher": "damc",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"keywords": [
+		"icon-theme",
+		"textpad",
+		"macos",
+		"native",
+		"mojave"
+	],
+	"preview": true,
+	"homepage": "https://github.com/damc-code/macos-modern-vscode-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/damc-code/macos-modern-vscode-theme.git"
+	},
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#0F0F0F",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [],
+		"iconThemes": [
+			{
+				"id": "textpad-icon-theme",
+				"label": "TextPad - Minimal",
+				"path": "./themes/icon/minimal-textpad.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9c8590d7-f74d-4502-a0ab-74f6524d69f7",
+		"publisherId": "c9ce9377-81b2-4c17-af7b-b7b6aa4d8c3c",
+		"publisherDisplayName": "damc",
+		"installedTimestamp": 1621395276805
+	}
+}
