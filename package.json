@@ -2,7 +2,7 @@
 	"name": "textpad-icon-theme",
 	"displayName": "TextPad Icon Theme",
 	"description": "A simple icon theme",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"publisher": "damc",
 	"engines": {
 		"vscode": "^1.25.0"
