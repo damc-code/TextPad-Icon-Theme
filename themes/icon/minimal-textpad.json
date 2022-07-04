@@ -345,7 +345,7 @@
       "id": "textpad",
       "src": [
         {
-          "path": "./dist/texpad-Regular.woff",
+          "path": "./dist/textpad-Regular.woff",
           "format": "woff"
         }
       ],
