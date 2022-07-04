@@ -15,10 +15,10 @@
 		"mojave"
 	],
 	"preview": true,
-	"homepage": "https://github.com/damc-code/macos-modern-vscode-theme",
+	"homepage": "https://github.com/damc-code/TextPad-Icon-Theme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/damc-code/macos-modern-vscode-theme.git"
+		"url": "https://github.com/damc-code/TextPad-Icon-Theme.git"
 	},
 	"icon": "images/icon.png",
 	"galleryBanner": {
