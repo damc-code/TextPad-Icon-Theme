@@ -2,7 +2,7 @@
 
 A simple icon theme 
 
-## Minimal Black (Chalice Edition)
+## TextPad - Minimal 
 <p align="center">
-<img  src="https://raw.githubusercontent.com/damc-code/themes/master/damc.textpad-color.images.examples/minimalblackchalice.png"  title="TextPad" />
+<img  src="https://raw.githubusercontent.com/damc-code/TextPad-Icon-Theme/main/extras/icons.png"  title="TextPad" />
 </p>
